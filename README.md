@@ -190,7 +190,7 @@ Quantization cheat sheet: **Q4_K_M / AWQ-INT4** is the default phone/Jetson trad
 - [LangGraph](https://github.com/langchain-ai/langgraph) / [LlamaIndex](https://www.llamaindex.ai/) — Orchestration that can target a local runtime
 - [Dify](https://github.com/langgenius/dify) — Visual agent builder, often paired with Ollama on the LAN
 - [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) — Agentic software factory with parallel Git worktrees (dev-time, not on-device)
-- [WERR](https://github.com/pCwOrM/werr) - Zero-memory, sub-2ms machine-native System-1 reflex decision engine using 24-byte fractal coordinate seeds for air-gapped edge agents.
+- [WERR](https://github.com/pCwOrM/werr) - **2026 · Edge/MCU** - Zero-memory, sub-2ms machine-native System-1 reflex decision engine using 24-byte fractal coordinate seeds for air-gapped edge agents. ([Paper](https://doi.org/10.5281/zenodo.22867426))
 
 ---
 
