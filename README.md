@@ -268,6 +268,7 @@ Suggested on-device report template: `model + quant + runtime + SoC → TTFT, to
 | **On-device T2I / avatars** | SnapFusion, MobileDiffusion, LCM, NanoAvatar | Few-step image gen; Android talking-head demo | [LCM](https://github.com/luosiallen/latent-consistency-model) · [NanoAvatar](https://github.com/wpydcr/NanoAvatar) |
 | **Privacy / air-gap** | llama.cpp + local RAG | Factories, hospitals, airplanes — no token leaves the LAN | [llama.cpp](https://github.com/ggml-org/llama.cpp) |
 | **Agent identity (experimental)** | TWZRD Agent Intel | MCP trust scoring before agent-to-agent payments | [intel.twzrd.xyz](https://intel.twzrd.xyz) |
+| **Reflex decision workspace** | answerr | In-browser & edge dual-process AI: sub-1ms reflex routing before slow LLMs | [answerr](https://github.com/pCwOrM/answerr) · [answerr.me](https://answerr.me) |
 
 ### Starter stacks (copy-paste)
 
